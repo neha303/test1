@@ -1,0 +1,10 @@
+product_type,region,policy_count,total_face_amount,total_premium,total_risk_premium,total_claims,avg_age,avg_loss_ratio
+Term Life,Midwest,1,400000,205.5,205.5,0.0,29.0,0.0
+Term Life,Northeast,4,1500000,1020.0,1020.0,2100.0,35.75,1.25
+Term Life,South,2,950000,1060.75,1263.75,8750.0,54.5,9.10035
+Term Life,West,3,1950000,880.25,880.25,0.0,37.333333333333336,0.0
+Universal Life,Midwest,1,400000,2200.0,2970.0,3200.0,59.0,1.0774
+Universal Life,Northeast,1,200000,1100.0,1100.0,0.0,39.0,0.0
+Universal Life,South,1,400000,1800.0,1800.0,6300.0,45.0,3.5
+Whole Life,South,3,625000,7100.5,11935.92,191600.0,60.66666666666666,12.7026
+Whole Life,West,2,450000,4750.0,7385.0,150000.0,51.5,13.0776
